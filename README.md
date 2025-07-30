@@ -16,7 +16,6 @@
 > _"Building dreams in code, one bug at a time."_ — *Siddhant*
 
 - 🔭 Currently exploring **MERN stack** and **3D-React**
-# - 🌐 Portfolio: [Lucas Chen](https://pon-portfolio-seven.vercel.app/)
 - 👯 Open to collaborating on **open-source** and **startup projects**
 - 📫 Reach me: **webet.dev777@gmail.com**
 - ☕ Support me: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siddhantshukla)
